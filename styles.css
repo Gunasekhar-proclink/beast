@@ -1,0 +1,35 @@
+@import "styles.css";
+
+
+body {
+    background-color: black;
+}
+
+
+
+
+h2 {
+    color: hsla(0, 0%, 100%, 1);
+    font-family: sans-serif;
+    text-align: center;
+    margin: 15px;
+    text-align: center;
+
+}
+
+.paragraph1 {
+    color: hsl(1.71deg 15.98% 57.06%);
+    text-align: center;
+    margin: 7px;
+    text-align: center;
+    font-size: 16px;
+}
+
+.paragraph2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    color: hsl(2.22deg 93.1% 94.31%);
+    margin: 10px;
+
+}
